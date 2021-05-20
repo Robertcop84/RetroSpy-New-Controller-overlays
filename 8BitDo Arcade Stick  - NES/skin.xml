@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="8BitDo Arcade Stick - NES" author="robertcop84" type="nes">
+
+  <background name="Default" image="nes.png" />
+
+  <button name="b" image="B.png" x="361" y="434" width="52" height="52" />
+  <button name="a" image="A.png" x="436" y="405" width="52" height="52" />
+
+  <button name="start" image="Start.png" x="267" y="253" width="34" height="17" />
+  <button name="select" image="Select.png" x="228" y="253" width="34" height="17" />
+
+  <button name="up" image="DU.png" x="186" y="331" width="24" height="24" />
+  <button name="down" image="DD.png" x="186" y="440" width="24" height="24" />
+  <button name="left" image="DL.png" x="132" y="387" width="24" height="24" />
+  <button name="right" image="DR.png" x="239" y="387" width="24" height="24" />
+
+</skin>
